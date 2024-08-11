@@ -3,6 +3,7 @@
 This is a basic React project using Vite as the build tool. It includes essential dependencies for building a React application and is configured with ESLint for code linting. TailwindCSS is used for styling.
 
 ## Getting Started
+
 ### Prerequisites
 
 Ensure you have the following installed on your machine:
@@ -22,8 +23,9 @@ Ensure you have the following installed on your machine:
 ### Development
 
 To start the development server, run:
-npm run dev
+    npm run dev
 
+This will start Vite in development mode. You can view the application in your browser at http://localhost:5173.
 
 Building for Production
 To build the project for production, run:
